@@ -2,3 +2,4 @@ script: ls
 deploy:
   provider: npm
   email: "667@june07.com"
+  api_key: "ff709130-0c24-4b8d-871f-f64df6403b78"
