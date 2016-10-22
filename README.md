@@ -6,6 +6,10 @@ Use this repository for test commits so as not to dirty up the history of the ac
 * 1 change
 * 2 changes
 * another change
-* and another
+* and anothers
 
+* 1 change
+* 2 changes
+* another change
+* and anothers
 
