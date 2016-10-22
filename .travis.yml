@@ -1,4 +1,5 @@
 script: ls
+install: ls
 deploy:
   provider: npm
   email: "667@june07.com"
