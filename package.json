@@ -1,0 +1,19 @@
+{
+  "name": "dillinger-commit-testing",
+  "version": "1.0.0",
+  "description": "test npm",
+  "main": "index.js",
+  "scripts": {
+    "test": "ls"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/june07/dillinger-commit-testing.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/june07/dillinger-commit-testing/issues"
+  },
+  "homepage": "https://github.com/june07/dillinger-commit-testing#readme"
+}
