@@ -4,8 +4,6 @@
 Use this repository for test commits so as not to dirty up the history of the actual dillinger repo.
 
 * 1 change
-* 2 changes
-d
-abc
+
 
 
